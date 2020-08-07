@@ -2,5 +2,5 @@
 // https://edabit.com/challenge/hPWnaSckJke5FXNEH
 
 function timeForMilkAndCookies(date) {
-    return date.getMonth() === 11 && date.getDate() === 24
+    return date.getMonth() === 11 && date.getDate() === 24;
 }
